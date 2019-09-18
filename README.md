@@ -5,7 +5,7 @@ Jump to section:
 
 # Toronto-based Tech Companies
 
-| Company | Industry/product | Learn more |----|
+| Company | Industry/product | Learn more | .  |
 |---------|------------------|------------|----|
 |[1password](https://1password.com/)|Secret Management|[1password jobs](https://1password.com/jobs/)|Applied|
 |[500px](https://500px.com/)|Photography|[500px careers](https://about.500px.com/jobs/)|
@@ -14,10 +14,10 @@ Jump to section:
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
 |[Avail](https://avail.app/)|Personal Health Assistant|[Avail careers](https://avail.breezy.hr/)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
-|[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
-|[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|
-|[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|
-|[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)
+|[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|Too far|
+|[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|For .NET|
+|[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|For .NET|
+|[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)| Great - Prepare to apply|
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
