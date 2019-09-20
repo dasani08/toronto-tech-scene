@@ -17,7 +17,7 @@ Jump to section:
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|Too far|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|For .NET|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|For .NET|
-|[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)| Great - Prepare to apply|
+|[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)| Great - Applied|
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
